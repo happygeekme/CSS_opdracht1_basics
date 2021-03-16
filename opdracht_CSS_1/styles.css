@@ -1,0 +1,28 @@
+body {
+    font-family:redressed;
+    color:honeydew;
+    background-color:rgb(86, 153, 146);
+}
+
+h1 {
+    font-size:30px;
+}
+
+h2 {
+    font-size:25px;
+}
+
+.lijstje {
+    font-size: 20px;
+}
+
+img.photo {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;}
+
+.linkje {
+    color:coral;
+    font-size: 20px;
+    font-style:italic
+}
